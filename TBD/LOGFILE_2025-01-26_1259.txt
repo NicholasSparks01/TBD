@@ -1,2 +1,0 @@
-Tool initialized
-Tool completed successfully
